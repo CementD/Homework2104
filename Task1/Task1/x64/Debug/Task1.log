@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\OOP C++\homework2104\Task1\Task1\Functions.h(11,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\OOP C++\homework2104\Task1\Task1\Functions.h(31,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\OOP C++\homework2104\Task1\Task1\Functions.h(58,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task1.vcxproj -> C:\Users\User\Desktop\OOP C++\homework2104\Task1\x64\Debug\Task1.exe
